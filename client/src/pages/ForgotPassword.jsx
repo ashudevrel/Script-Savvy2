@@ -25,7 +25,7 @@ const containerVariants = {
 };
 
 
-const inputVariants = {
+/*const inputVariants = {
   hidden: {
     opacity: 0,
     y: 50
@@ -40,7 +40,7 @@ const inputVariants = {
       delay: 0.5
     }
   }
-};
+};*/
 
 
 const buttonVariants = {
